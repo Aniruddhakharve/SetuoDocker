@@ -1,0 +1,2 @@
+# SetuoDocker
+autmationodDockerInstallation
